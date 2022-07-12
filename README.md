@@ -4,8 +4,6 @@
 
 - Currently learning Software Development 
   
-- Looking for other Software Developers to collaborate with and learn from
-  
 - Pronouns: He/Him
   
 ### Languages and Tools:
