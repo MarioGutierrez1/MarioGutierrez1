@@ -4,8 +4,6 @@
 
 - Currently learning Software Development 
   
-- Currently working on a Architect Website
-  
 - Looking for other Software Developers to collaborate with and learn from
   
 - Pronouns: He/Him
